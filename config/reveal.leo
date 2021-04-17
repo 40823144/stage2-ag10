@@ -192,7 +192,7 @@ vertical: body pane on the botton</t>
 &lt;span style="display: inline-block;" class="fragment fade-right"&gt;Stage2-ag10&lt;/span&gt;
 &lt;p&gt;&lt;span style="display: inline-block;" class="fragment fade-left"&gt;題目&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style="display: inline-block;" class="fragment fade-up"&gt;仿生獸(連桿行走機構)&lt;/p&gt;
-&lt;p&gt;&lt;span style="display: inline-block;" class="fragment fade-up"&gt;&lt;img alt="" height="350" src="/images/Strandbeest-Walking-Animation.gif" width="400"&gt;&lt;img alt="" height="329" src="/images/Strandbeest--Full-Walking-Animation.gif" width="500"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="display: inline-block;" class="fragment fade-up"&gt;&lt;img alt="" height="350" src="https://img.onl/gf8O2x" width="400"&gt;&lt;img alt="" height="329" src="https://img.onl/Yz1ynx" width="500"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/section&gt;
 
 </t>
@@ -250,12 +250,12 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210417165451.1">&lt;section data-background="#DEFFF2"&gt;
 &lt;h3&gt;W6&lt;/h3&gt;
 &lt;p&gt;單腳模擬成功，再來嘗試組裝並模擬雙腳運作。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="333" src="/images/單腳有料.gif" width="640"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="333" src="https://img.onl/YrPunb" width="640"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210417165604.1">&lt;section data-background="#DEFFF2"&gt;
 &lt;h3&gt;W7&lt;/h3&gt;
 &lt;p&gt;不開碰撞後，雙腳模擬成功，但會有些許干涉，外型跟內部要大改造。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="330" src="/images/雙腳有料.gif" width="640"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="330" src="https://img.onl/pKZPz" width="640"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210417165605.1">&lt;section data-background="#DEFFF2"&gt;
 &lt;h3&gt;W8&lt;/h3&gt;
@@ -283,25 +283,25 @@ vertical: body pane on the botton</t>
 &lt;h2&gt;遇到的問題&lt;/h2&gt;
 &lt;p&gt;W6&lt;/p&gt;
 &lt;p&gt;CoppeliaSim第一次模擬，對於組件還不是很熟悉。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="337" src="/images/螺旋手裏劍.gif" width="640"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="337" src="https://img.onl/AH8cte" width="640"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210417170324.1">&lt;section data-background="#DEFFF2"&gt;
 &lt;p&gt;第二次模擬，還是有些地方約束不完全。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="331" src="/images/大抬腳.gif" width="640"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="331" src="https://img.onl/r54EWB" width="640"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210417170324.2">&lt;section data-background="#DEFFF2"&gt;
 &lt;p&gt;第三次模擬，因為Dummy只能一個軸接一個實體，導致桿子連接不完全。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="337" src="/images/dummy.gif" width="640"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="337" src="https://img.onl/PqhKZZ" width="640"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210417170324.3">&lt;section data-background="#DEFFF2"&gt;
 &lt;p&gt;W7&lt;/p&gt;
 &lt;p&gt;雙腳模擬打開碰撞後會互相干涉，會使桿件跑掉。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="342" src="/images/雙腳沒料.gif" width="640"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="342" src="https://img.onl/NP1W2m" width="640"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210417170325.1">&lt;section data-background="#DEFFF2"&gt;
 &lt;p&gt;W8&lt;/p&gt;
 &lt;p&gt;推測是間隔不夠大會使內部產生干涉問題，行走時會一頓一頓的。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="278" src="/images/四足碰撞干涉.gif" width="640"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="278" src="https://img.onl/s9AomS" width="640"&gt;&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20210417170936.1">&lt;section data-background="#DEFFF2"&gt;
