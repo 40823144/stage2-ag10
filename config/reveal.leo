@@ -187,12 +187,7 @@ vertical: body pane on the botton</t>
 &lt;div class="slides"&gt;
     @others
 &lt;/div&gt;</t>
-<t tx="leo.20200818170328.1">&lt;section data-background="unnamed.png"&gt;
-   &lt;div style="
-        background-color: rgba(0, 0, 0, 0.7);
-        color: #fff;
-        padding: 20px;
-   "&gt;
+<t tx="leo.20200818170328.1">&lt;section data-background="#DEFFF2"&gt;
 &lt;/h2&gt;&lt;p class="fragment grow"&gt;協同產品設計實習&lt;/p&gt;&lt;/h2&gt;
 &lt;span style="display: inline-block;" class="fragment fade-right"&gt;Stage2-ag10&lt;/span&gt;
 &lt;p&gt;&lt;span style="display: inline-block;" class="fragment fade-left"&gt;題目&lt;/span&gt;&lt;/p&gt;
@@ -201,7 +196,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170535.1">&lt;section&gt;
+<t tx="leo.20200818170535.1">&lt;section data-background="#DEFFF2"&gt;
 &lt;h2&gt;設計理念&lt;/h2&gt;
 &lt;p&gt;喜歡動物，而且仿生獸可以參考的資料很多，發生問題也會相對好處理。希望可以透過製作仿生獸了解如何運用連桿機構模擬生物行走。&lt;/p&gt;
 &lt;/section&gt;
@@ -213,7 +208,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170725.1">&lt;section&gt;
+<t tx="leo.20200818170725.1">&lt;section data-background="#DEFFF2"&gt;
 &lt;h2&gt;組員&lt;/h2&gt;
 &lt;p&gt;40823142 廖韋博&amp;nbsp;&lt;a href="https://github.com/40823142/cd2021"&gt;40823142_repo&lt;/a&gt;&amp;nbsp;&lt;a href="https://40823142.github.io/cd2021/content/index.html"&gt;40823142_site&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;40823144 柯晉瑚&amp;nbsp;&lt;a href="https://github.com/40823144/cd2021"&gt;40823144_repo&lt;/a&gt;&amp;nbsp;&lt;a href="https://40823144.github.io/cd2021/content/index.html"&gt;40823144_site&lt;/a&gt;&lt;/p&gt;
@@ -226,18 +221,18 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170909.1">&lt;section&gt;
+<t tx="leo.20200818170909.1">&lt;section data-background="#DEFFF2"&gt;
 &lt;h2&gt;進度報告&lt;/h2&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20200818170953.1">&lt;section&gt;
+<t tx="leo.20200818170953.1">&lt;section data-background="#DEFFF2"&gt;
    &lt;h3&gt;W5&lt;/h3&gt;
 &lt;p&gt;打算先做出一隻腳來進行模擬。&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://drive.google.com/drive/folders/1qcvsjKXK2s3pZDGIr-p0BVt6htLgplRX?usp=sharing"&gt;初步零件&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;iframe width="700" height="400" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/fFGy7SvhYHU"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20200818171010.1">&lt;section&gt;
+<t tx="leo.20200818171010.1">&lt;section data-background="#DEFFF2"&gt;
 &lt;p&gt;plslvs模擬結果&lt;/p&gt;
 &lt;p&gt;&lt;iframe width="700" height="400" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/GF662uifucU"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
@@ -252,64 +247,64 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20210417165451.1">&lt;section&gt;
+<t tx="leo.20210417165451.1">&lt;section data-background="#DEFFF2"&gt;
 &lt;h3&gt;W6&lt;/h3&gt;
 &lt;p&gt;單腳模擬成功，再來嘗試組裝並模擬雙腳運作。&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" height="333" src="/images/單腳有料.gif" width="640"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210417165604.1">&lt;section&gt;
+<t tx="leo.20210417165604.1">&lt;section data-background="#DEFFF2"&gt;
 &lt;h3&gt;W7&lt;/h3&gt;
 &lt;p&gt;不開碰撞後，雙腳模擬成功，但會有些許干涉，外型跟內部要大改造。&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" height="330" src="/images/雙腳有料.gif" width="640"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210417165605.1">&lt;section&gt;
+<t tx="leo.20210417165605.1">&lt;section data-background="#DEFFF2"&gt;
 &lt;h3&gt;W8&lt;/h3&gt;
 &lt;p&gt;外型大改造並且使四足模擬成功。&lt;/p&gt;
 &lt;p&gt;&lt;iframe width="700" height="400" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/jNLPmJR2iNI"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210417165845.1">&lt;section&gt;
+<t tx="leo.20210417165845.1">&lt;section data-background="#DEFFF2"&gt;
 &lt;h3&gt;實驗結果&lt;/h3&gt;
 &lt;p&gt;&lt;iframe width="700" height="400" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/KLzpcsKhSM0"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;經多次測試可知定點拉越遠，動點的軌跡會越平滑，且定點高低只會影響到圓弧傾斜。&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210417170014.1">&lt;section&gt;
+<t tx="leo.20210417170014.1">&lt;section data-background="#DEFFF2"&gt;
 &lt;h2&gt;定點位置造成之影響&lt;/h2&gt;
 &lt;p&gt;模擬影片&lt;/p&gt;
 &lt;p&gt;&lt;iframe width="700" height="400" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/kllA1N-cdx4"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;
 </t>
-<t tx="leo.20210417170118.1">&lt;section&gt;
+<t tx="leo.20210417170118.1">&lt;section data-background="#DEFFF2"&gt;
 &lt;h3&gt;測試的目的&lt;/h3&gt;
 &lt;p&gt;讓路徑盡可能的平順，並以類三角形的行動軌跡來運動。&lt;/p&gt;
 &lt;p&gt;目前測試最佳的定點位置在(45,-3)&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210417170323.1">&lt;section&gt;
+<t tx="leo.20210417170323.1">&lt;section data-background="#DEFFF2"&gt;
 &lt;h2&gt;遇到的問題&lt;/h2&gt;
 &lt;p&gt;W6&lt;/p&gt;
 &lt;p&gt;CoppeliaSim第一次模擬，對於組件還不是很熟悉。&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" height="337" src="/images/螺旋手裏劍.gif" width="640"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210417170324.1">&lt;section&gt;
+<t tx="leo.20210417170324.1">&lt;section data-background="#DEFFF2"&gt;
 &lt;p&gt;第二次模擬，還是有些地方約束不完全。&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" height="331" src="/images/大抬腳.gif" width="640"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210417170324.2">&lt;section&gt;
+<t tx="leo.20210417170324.2">&lt;section data-background="#DEFFF2"&gt;
 &lt;p&gt;第三次模擬，因為Dummy只能一個軸接一個實體，導致桿子連接不完全。&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" height="337" src="/images/dummy.gif" width="640"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210417170324.3">&lt;section&gt;
+<t tx="leo.20210417170324.3">&lt;section data-background="#DEFFF2"&gt;
 &lt;p&gt;W7&lt;/p&gt;
 &lt;p&gt;雙腳模擬打開碰撞後會互相干涉，會使桿件跑掉。&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" height="342" src="/images/雙腳沒料.gif" width="640"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210417170325.1">&lt;section&gt;
+<t tx="leo.20210417170325.1">&lt;section data-background="#DEFFF2"&gt;
 &lt;p&gt;W8&lt;/p&gt;
 &lt;p&gt;推測是間隔不夠大會使內部產生干涉問題，行走時會一頓一頓的。&lt;/p&gt;
 &lt;p&gt;&lt;img alt="" height="278" src="/images/四足碰撞干涉.gif" width="640"&gt;&lt;/p&gt;
 
 &lt;/section&gt;</t>
-<t tx="leo.20210417170936.1">&lt;section&gt;
+<t tx="leo.20210417170936.1">&lt;section data-background="#DEFFF2"&gt;
 心得
 &lt;/section&gt;</t>
 </tnodes>
