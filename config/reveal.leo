@@ -319,14 +319,14 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210421113204.1">&lt;section data-background="#DEFFF2"&gt;
 &lt;h2&gt;成品結果&lt;/h2&gt;
 &lt;p&gt;零件表&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="481" src="/images/cad零件表.jpg" width="700"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="481" src="https://img.onl/cKkHyL" width="700"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210421113329.1">&lt;section data-background="#DEFFF2"&gt;
 &lt;p&gt;立體圖&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="517" src="/images/立體圖2.jpg" width="700"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="517" src="https://img.onl/d1P0Gr" width="700"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210421113419.1">&lt;section data-background="#DEFFF2"&gt;
-&lt;p&gt;&lt;img alt="" height="524" src="/images/立體1.jpg" width="700"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="524" src="https://img.onl/XPJQhb" width="700"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210421113454.1">&lt;section data-background="#DEFFF2"&gt;
 &lt;p&gt;CoppeliaSim模擬結果&lt;/p&gt;
