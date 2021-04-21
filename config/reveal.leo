@@ -29,6 +29,12 @@
 <v t="leo.20210417165604.1"><vh>3-5</vh></v>
 <v t="leo.20210417165605.1"><vh>3-6</vh></v>
 </v>
+<v t="leo.20210421113039.1"><vh>end</vh>
+<v t="leo.20210421113204.1"><vh>end1</vh></v>
+<v t="leo.20210421113329.1"><vh>end2</vh></v>
+<v t="leo.20210421113419.1"><vh>end3</vh></v>
+<v t="leo.20210421113454.1"><vh>end4</vh></v>
+</v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh>
 <v t="leo.20210417170014.1"><vh>5-1</vh></v>
 <v t="leo.20210417165845.1"><vh>5-2</vh></v>
@@ -191,7 +197,7 @@ vertical: body pane on the botton</t>
 &lt;/h2&gt;&lt;p class="fragment grow"&gt;協同產品設計實習&lt;/p&gt;&lt;/h2&gt;
 &lt;span style="display: inline-block;" class="fragment fade-right"&gt;Stage2-ag10&lt;/span&gt;
 &lt;p&gt;&lt;span style="display: inline-block;" class="fragment fade-left"&gt;題目&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span style="display: inline-block;" class="fragment fade-up"&gt;仿生獸(連桿行走機構)&lt;/p&gt;
+&lt;p&gt;&lt;span style="display: inline-block;" class="fragment fade-up"&gt;四腳獸(連桿行走機構)&lt;/p&gt;
 &lt;p&gt;&lt;span style="display: inline-block;" class="fragment fade-up"&gt;&lt;img alt="" height="350" src="https://img.onl/gf8O2x" width="400"&gt;&lt;img alt="" height="329" src="https://img.onl/Yz1ynx" width="500"&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/section&gt;
 
@@ -306,6 +312,25 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210417170936.1">&lt;section data-background="#DEFFF2"&gt;
 心得
+&lt;/section&gt;</t>
+<t tx="leo.20210421113039.1">&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
+<t tx="leo.20210421113204.1">&lt;section data-background="#DEFFF2"&gt;
+&lt;h2&gt;成品結果&lt;/h2&gt;
+&lt;p&gt;零件表&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="481" src="/images/cad零件表.jpg" width="700"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210421113329.1">&lt;section data-background="#DEFFF2"&gt;
+&lt;p&gt;立體圖&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="517" src="/images/立體圖2.jpg" width="700"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210421113419.1">&lt;section data-background="#DEFFF2"&gt;
+&lt;p&gt;&lt;img alt="" height="524" src="/images/立體1.jpg" width="700"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210421113454.1">&lt;section data-background="#DEFFF2"&gt;
+&lt;p&gt;CoppeliaSim模擬結果&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="700" height="400" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/jNLPmJR2iNI"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
