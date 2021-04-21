@@ -312,7 +312,7 @@ vertical: body pane on the botton</t>
 
 &lt;/section&gt;</t>
 <t tx="leo.20210417170936.1">&lt;section data-background="#DEFFF2"&gt;
-心得
+&lt;h2&gt;心得&lt;/h2&gt;
 我覺得Stage2的四人小組運作起來很順暢，兩個人的時候雖然交流快速，但相對來講時間會變得比較緊湊，能做的事有限。四人的話便可以很好的分配工作，討論時的資料整理處理起來會比兩人時更為複雜，但提出的意見也比較多元化。這次的四腳獸我覺得很好，雖然還有不少美中不足的地方，但真的有種在設計的感覺，總體來說過程很燒腦但成品很有成就感。
 &lt;/section&gt;</t>
 <t tx="leo.20210421113039.1">&lt;section&gt;
